@@ -1,0 +1,51 @@
+.head{
+    color: blueviolet;
+    background-color: blue;
+    align-items: center;
+    background: 10px;
+
+}
+.content{
+    background-color: azure;
+    color: black;
+    display: flex;
+    word-spacing: auto;
+    border: 20px;
+}
+.heading{
+   
+    background-color: white;
+    color: rgb(237, 95, 13);
+    border-radius: 10px;
+    display: flex;
+   justify-items: center;
+}
+.nav{
+   
+    justify-content: center;
+    flex-direction: column;
+    align-items: column;
+    color: rgb(19, 20, 20);
+    background-color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+#btn{
+    align-items: row;
+    justify-items: right;
+}
+.head{
+    background-color: bisque;
+    color: rgb(8, 8, 8);
+}
+.cont{
+    background-color: azure;
+    color: black;
+    padding: 10px;
+    align-content: center;
+}
+.pur{
+    background-color: aquamarine;
+    color: black;
+}
